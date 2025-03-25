@@ -1,2 +1,4 @@
 telethon
 pydantic_settings
+pytz
+tqdm
